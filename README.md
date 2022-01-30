@@ -20,4 +20,4 @@ sudo install -Dm755 portage-show /usr/local/bin
 ## Packages
 
 - Linux
-  - Gentoo linux: [app-misc/portage-show::dinolay](https://ari-web.xyz/gentooatom/app-misc/portage-show)
+  - Gentoo linux: [app-portage/portage-show::dinolay](https://ari-web.xyz/gentooatom/app-portage/portage-show)
