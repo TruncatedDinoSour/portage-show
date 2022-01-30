@@ -6,6 +6,8 @@
 
 - Portage -- https://packages.gentoo.org/packages/sys-apps/portage
 - Portage q -- https://packages.gentoo.org/packages/app-portage/portage-utils
+- Grep -- https://www.gnu.org/software/grep/
+- GNU coreutils -- https://www.gnu.org/software/coreutils/
 
 # Installation
 
